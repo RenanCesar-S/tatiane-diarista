@@ -27,15 +27,15 @@ justify-content: center;
     display: flex;
     margin-top: 196px;
     background-color: rgba(245, 245, 245, 0.795);
-    width: 486px;
-    height: 14rem;
+    width: 34rem;
+    height: 16rem;
     box-shadow: 6px 4px 2px 0px #00000068;
     border-radius: 16px;
     padding: 8px;
 }
 
 .logo-img img{
-    width: 100%;
+    width: 126px;
     height: 128px;
     margin-right: 3rem;
     box-shadow: 6px 4px 2px 0px #0000007c;
