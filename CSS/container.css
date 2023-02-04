@@ -28,7 +28,7 @@ justify-content: center;
     margin-top: 196px;
     background-color: rgba(245, 245, 245, 0.795);
     width: 28rem;
-    height: 16rem;
+    height: 20rem;
     box-shadow: 6px 4px 2px 0px #00000068;
     border-radius: 16px;
     padding: 8px;
@@ -81,7 +81,7 @@ p {
 
 strong {
     width: 258px;
-    margin-top: 48px;
+    margin-top: 36px;
     font-family: Roboto, sans-serif;
     font-size: 1.1rem;
     
@@ -100,6 +100,7 @@ img {
     width: 64px;
     height: 64px;
     margin-top: 38px;
+    margin-left: 16px;
     border-radius: 12%;
     font-family: Roboto, sans-serif;
     font-size:12px;
