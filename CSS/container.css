@@ -27,14 +27,14 @@ justify-content: center;
     display: flex;
     margin-top: 196px;
     background-color: rgba(245, 245, 245, 0.795);
-    width: 34rem;
+    width: 28rem;
     height: 16rem;
     box-shadow: 6px 4px 2px 0px #00000068;
     border-radius: 16px;
     padding: 8px;
 }
 
-.logo-img img{
+.diaryimg{
     width: 126px;
     height: 128px;
     margin-right: 3rem;
@@ -81,7 +81,7 @@ p {
 
 strong {
     width: 258px;
-    margin-top: 56px;
+    margin-top: 48px;
     font-family: Roboto, sans-serif;
     font-size: 1.1rem;
     
@@ -92,7 +92,6 @@ img {
     width: 52px;
 }
 
-
 .btn:focus, .btn::-moz-focus-inner{
     outline:none;
     border:none;
@@ -100,8 +99,7 @@ img {
   .btn{
     width: 64px;
     height: 64px;
-    margin-top: 12px;
-    margin-left: 32px;
+    margin-top: 38px;
     border-radius: 12%;
     font-family: Roboto, sans-serif;
     font-size:12px;
